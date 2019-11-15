@@ -1,5 +1,5 @@
 @import "reset.css";
-@import url('https://fonts.googleapis.com/css?family=M+PLUS+Rounded+1c:500,800&display=swap&subset=cyrillic');
+@import "fonts.css";
 
 body {
   font-family: 'M PLUS Rounded 1c', sans-serif;
@@ -24,7 +24,6 @@ nav {
 .intro {
   font-weight: 800;
 }
-
 
 
 
