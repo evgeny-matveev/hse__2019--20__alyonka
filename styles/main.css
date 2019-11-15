@@ -7,3 +7,28 @@ body {
   -moz-osx-font-smoothing: grayscale;
   box-sizing: border-box;
 }
+
+nav {
+  background: #000;
+  height: 60px;
+  padding: 0 16px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.nav__logo {
+  height: 44px;
+}
+
+.intro {
+  font-weight: 800;
+}
+
+
+
+
+
+
+
+/* EOF */
