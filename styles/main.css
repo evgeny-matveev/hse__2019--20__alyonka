@@ -23,9 +23,35 @@ nav {
 
 .intro {
   font-weight: 800;
+  text-align: center;
 }
 
+.intro h1 {
+  font-size: 20px;
+  margin: 56px 0 8px 0;
+}
 
+.intro h2 {
+  font-size: 40px;
+  margin-bottom: 40px;
+}
+
+.intro img {
+  width: 275px;
+}
+
+.intro p {
+  font-size: 20px;
+  line-height: 28px;
+  color: #949494;
+  text-align: left;
+  padding: 0 16px;
+  margin: 40px 0 56px 0;
+}
+
+.intro p em {
+  color: #000;
+}
 
 
 
